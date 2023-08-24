@@ -2,6 +2,10 @@
 
 A quiz application that tests your knowledge of flutter and dart. Built with flutter and dart.
 
+<img src='./flutterQuiz1.png' width=200>
+<img src='./flutterQuiz2.png' width=200>
+<img src='./flutterQuiz3.png' width=200>
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
